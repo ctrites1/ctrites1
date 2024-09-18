@@ -2,7 +2,7 @@
 
 ## About Me
 - :school: Currently: **Full-stack Web Development** student in Vancouver, Canada.
-- :hearts:Fun: :dancer:Ballroom Dancing, playing :video_game:Video games, or :rabbit:[bunny-whispering](https://www.bunnycafe.ca/)
+- :hearts:Fun: :dancer:Ballroom Dancing, :video_game:Video games, or :rabbit:[bunny-whispering](https://www.bunnycafe.ca/)
 -  Pronouns: She/Her
 
 ## Tech
