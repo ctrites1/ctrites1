@@ -1,7 +1,7 @@
 # Hi, I'm Christine!
 
 ## About Me
-- :school: Currently: **Full-stack Web Development** student in Vancouver, Canada.
+- :school: Currently: **Full-stack Web Developer** in Vancouver, Canada.
 - :hearts:Fun: :dancer:Ballroom Dancing, :video_game:Video games, or :rabbit:[bunny-whispering](https://www.bunnycafe.ca/)
 -  Pronouns: She/Her
 
